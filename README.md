@@ -40,7 +40,9 @@
 ##
 
 <div>
+  
   ![Snake animation](https://github.com/Kierico/Kierico/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
 <!--
