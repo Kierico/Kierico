@@ -23,7 +23,7 @@
   <a href="https://github.com/Kierico" target"_blank"><img align="center" alt="Kierico-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></a>
   <a href="https://github.com/Kierico" target"_blank"><img align="center" alt="Kierico-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
   <a href="https://github.com/Kierico" target="_blank"><img align="center" alt="Kierico-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-  <img align="right" alt="Kierico" src="https://cdn.discordapp.com/emojis/630965836257165322.gif?v=1">
+  <img align="right" alt="Kierico" src="https://cdn.discordapp.com/emojis/879879807733760011.gif">
 </div>
 
 ##
